@@ -8,3 +8,7 @@
 [![GMail](https://img.shields.io/badge/GMail-red?style=flat-square&logo=gmail)](mailto:mdalamch63@gmail.com)
 [![Website](https://img.shields.io/badge/Website-008080?style=flat-square&logo=globe)](https://www.mohammadshahindsps.com/)
 
+
+
+### NOTE: There are some of my project repos are't public yet.
+
