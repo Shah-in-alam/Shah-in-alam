@@ -1,5 +1,6 @@
 # Hi Coder, I'm Shah-in-alam
 ## My GitHub Statistics 📈
+![Shahin GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Shah-in-alam&theme=dark&background=000000)
 ![Shahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shah-in-alam&show_icons=true&theme=radical)
 ![Total Contributions](https://github-readme-stats.vercel.app/api?username=shah-in-alam&show_icons=true)
 ![Total Stars](https://img.shields.io/github/stars/shah-in-alam?affiliations=OWNER%2CCOLLABORATOR)
