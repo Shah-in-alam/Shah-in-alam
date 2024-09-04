@@ -12,5 +12,6 @@
 
 
 
-### NOTE: There are some of my project repos are't public yet.
+### NOTE: There are some of my project repos are't public yet..
+### I am open to collab, 
 
