@@ -1,4 +1,4 @@
-# Hi Coder, I'm Shah-in-alam
+# Hi Coder, I'm <span style="color:orange;">Shah-in-alam</span>
 ## My GitHub Statistics 📈
 ![Shahin GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Shah-in-alam&theme=dark&background=000000)
 ![Shahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shah-in-alam&show_icons=true&theme=radical)
