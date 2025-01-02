@@ -3,6 +3,8 @@
 ![Shahin GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Shah-in-alam&theme=dark&background=000000)
 ![Shahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shah-in-alam&show_icons=true&theme=radical)
 ![Total Stars](https://img.shields.io/github/stars/shah-in-alam?affiliations=OWNER%2CCOLLABORATOR)
+![Visitor Count](https://komarev.com/ghpvc/?username=Shah-in-alam)
+
 ## Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shah-in-alam&layout=compact)
 ## Connect with me:
