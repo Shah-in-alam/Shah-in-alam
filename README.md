@@ -1,7 +1,8 @@
 <!-- Hero GIF Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" alt="Developer at work" />
+  <img src="https://raw.githubusercontent.com/Shah-in-alam/Shah-in-alam/main/banner_shahin.png" alt="Shahin Alam Banner" />
 </p>
+
 
 <!-- Typing animation intro -->
 <h1 align="center">
@@ -31,6 +32,13 @@
 </p>
 
 ---
+## 🗓️ GitHub Contribution Heatmap
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shah-in-alam&bg_color=000000&color=00ffcc&line=00ffff&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
+</p>
+
+
 
 ## 🌐 Connect with Me
 
